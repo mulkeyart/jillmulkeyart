@@ -23,14 +23,14 @@
   .main_content {
     display: flex;
     color: white;
-	padding: 32px;
+	  padding: 32px;
     flex-direction: column;
     width: 100%;
     height: 100%;
     background: linear-gradient(to right, #2f2f2f, #161616);
   }
   .main_header {
-	text-shadow: 10px 5px 5px #4a2276;
+	text-shadow: 1px 5px 10px #9177ad;
 	filter: brightness(2)
   }
 </style>

@@ -37,10 +37,10 @@
       <Dropdown nav inNavbar>
         <DropdownToggle nav caret>Cart</DropdownToggle>
         <DropdownMenu end>
-          <DropdownItem>To your cart</DropdownItem>
-          <DropdownItem>Option 2</DropdownItem>
+          <DropdownItem href="/cart">View your cart</DropdownItem>
+          <DropdownItem>To Checkout</DropdownItem>
           <DropdownItem divider />
-          <DropdownItem>Reset</DropdownItem>
+          <DropdownItem href="/">Home</DropdownItem>
         </DropdownMenu>
       </Dropdown>
     </Nav>

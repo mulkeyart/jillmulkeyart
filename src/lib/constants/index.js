@@ -2,15 +2,14 @@ export const routes = {
     "/": "Welcome",
     "/paintings": "Paintings",
     "/misc": "Miscellaneous",
-   
-    
-
+    "/cart": "Cart",
+    "/admin": "Admin",
 }
 
 export const images = [
     {
         title: "three spectres",
-        subtitle: "I created this image on Sunday morning after seeing a ghost",
+        subtitle: "I created this image on Sunday morning after seeing a ghost and it was realllly spooky",
         cardText: "",
         imageSrc: "abstract.png",
     },
